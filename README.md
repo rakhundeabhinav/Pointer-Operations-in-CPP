@@ -29,7 +29,7 @@ To study and implement **pointer operations** in C++ and understand the differen
 
 ## 📋 Algorithms
 
-### 🔹 Employee Salary Increment (short)
+### 🔹 Employee Salary Increment
 
 1. Input employee details (years, research work, pipeline, profit, salary).
 2. Count how many conditions are met.
@@ -38,7 +38,7 @@ To study and implement **pointer operations** in C++ and understand the differen
 
 ---
 
-### 🔹 Reverse String using Pointers (short)
+### 🔹 Reverse String using Pointers
 
 1. Input string `str`.
 2. Point `ptr` to first character.
